@@ -66,7 +66,7 @@ def sjf(processes):
     return processes, energy_total
 
 
-# 🔥 -------- IMPROVED AETAS --------
+# 🔥 -------- IMPROVED AETaS --------
 def aetas(processes):
     import heapq
 
